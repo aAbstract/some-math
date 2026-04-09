@@ -1,3 +1,3 @@
-# Probability Theory and Statistical Inference
+# Some Math Tools
 
-Quick prototypes and simulations to verify concepts and behaviors of random variables, probability distributions, and simple statistical models.
+Quick prototypes and simulations to verify concepts and behaviors of some mathematical models.
